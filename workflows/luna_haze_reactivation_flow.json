@@ -1,0 +1,10 @@
+{
+  "flow_name": "Luna Haze Reactivation Flow",
+  "trigger": "Airtable → New or Updated Customer",
+  "logic": [
+    "Tag customer by activity level",
+    "Send SMS sequence day 0, 2, 5",
+    "If purchase over $25 → apply 15% pickup discount",
+    "Log all send events back to Airtable"
+  ]
+}
