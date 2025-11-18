@@ -1,0 +1,4 @@
+Website → Airtable (Customers)  
+Airtable → Brevo (SMS/Email Sequences)  
+Website Orders → Airtable Interface (Pickup Fulfillment)  
+AI Prompts → SEO Content + Product Listings
